@@ -12,7 +12,7 @@
 - GitHub
 - Firebase
 
-## 💻 Developed By
+## 💻 Customize
 
 ![Developer PIC](https://avatars.githubusercontent.com/u/86622354?s=96&v=4)
 
