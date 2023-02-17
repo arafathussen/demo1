@@ -4,7 +4,7 @@
 
 ## Live Demo of this website :⤵️
 
--  Open [https://arafathussen.github.io/demo1)
+-  Open https://arafathussen.github.io/demo1
 
 ## Technologies
 - html , css , Js
