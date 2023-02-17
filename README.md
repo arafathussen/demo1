@@ -4,12 +4,11 @@
 
 ## Live Demo of this website :⤵️
 
--  Open [https://health-care-hospital-bd.web.app](https://health-care-hospital-bd.web.app)
+-  Open [https://arafathussen.github.io/demo1)
 
 ## Technologies
-- React Js
-- React Bootstrap
-- React Hook
+- html , css , Js
+- Bootstrap
 - GitHub
 - Firebase
 
@@ -19,5 +18,5 @@
 
 ## 🚀 Connect with me
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arafathussenn/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://arafathussen.com)
 
