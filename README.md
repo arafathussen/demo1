@@ -1,6 +1,6 @@
-#  Health Care Hospital Web App
+#  Development Portfolio for Your Project Live Demo
 
-- It is a single page application made with ReactJS, react bootstrap etc...
+- It is a single page application made with html , css , JS , bootstrap etc...
 
 ## Live Demo of this website :⤵️
 
